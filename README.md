@@ -4,8 +4,11 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/PS99BYE/thing/main/PS99.lua'))()
 ```
 ## Executer I use
+
 [Arceus X Discord](https://discord.gg/arceus)
+
 [Emulator I use, MEMU](https://www.memuplay.com/)
+
 # Tutorial for Dupe & Trade Glitch
 ## How does this work?
 This script works by sending invalid packets to the Pet Simulator 99 servers, causing them to not be able to store new data. Anything you do from this point on can and will be reverted.
