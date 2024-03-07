@@ -14,6 +14,7 @@ What you need
 - An alt
 - Another method of joining the game
 - 10k+ gems + stuff you want to dupe
+
 This method utilizes the mailbox and the script.
 !!!EXECUTE THE SCRIPT WHEN YOU JOIN!!!
 Simply send any item you want to dupe to your alt account (AFTER EXECUTING SCRIPT)
@@ -25,6 +26,7 @@ This will delete the duped item. You must sell this item before joining a server
 Don't have any good items? Well this is the glitch for you
 What you need
 - An item with ANY value at all
+
 This method utilizes other people.
 !!!EXECUTE THE SCRIPT WHEN YOU JOIN!!!
 Give them a great offer that they can't refuse, accept the trade, but quickly unaccept. Take away all the items you put in.
