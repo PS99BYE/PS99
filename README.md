@@ -1,7 +1,7 @@
 # Stuff you need
 ## SCRIPT
 ```
-loadstring(game:HttpGet('https://raw.githubusercontent.com/totallynotanaltaccount928/thing/main/petsimlag.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PS99BYE/thing/main/petsimlag.lua'))()
 ```
 ## Executer I use
 [Arceus X Discord](https://discord.gg/arceus)
