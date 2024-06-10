@@ -1,7 +1,7 @@
 # Stuff you need
 ## SCRIPT
 ```
-loadstring(game:HttpGet('https://raw.githubusercontent.com/PS99BYE/thing/main/PS99.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PS99BYE/PS99/main/petsim.lua'))()
 ```
 ## Executer I use
 
